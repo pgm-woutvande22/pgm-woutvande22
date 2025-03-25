@@ -8,9 +8,8 @@ Ik ben momenteel op zoek naar een stageplek om mijn backend skills te verbeteren
 
 
 # Skills
-HTML
-CSS
-JAVASCRIPT
+
+HTML, CSS, JAVASCRIPT
 
 <!--
 **pgm-woutvande22/pgm-woutvande22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
